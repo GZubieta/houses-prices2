@@ -2,7 +2,7 @@
 I joined the Kaggle Competition: House Prices: Advanced Regression Techniques in December 2017.
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
-I used multiple linear regression (forward and backward selection), Neural Networks, Decision Trees (bagged tree) for prediction house prices.
+I used multiple linear regression (forward and backward selection), Neural Networks, Decision Trees (bagged tree) for predicting house prices.
 
 # File list
 1. Data file: `test.csv` `train.csv`
